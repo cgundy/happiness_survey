@@ -1,2 +1,2 @@
 # happiness_survey
-Analyzing data from the public happiness survey
+Using the public happiness survey the practice visualizations and feature engineering.
